@@ -1,0 +1,7 @@
+# Executable
+*.exe
+
+# Vim output
+*.swp
+*.viminfo
+*~
